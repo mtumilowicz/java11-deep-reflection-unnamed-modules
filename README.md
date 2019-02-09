@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-deep-reflection-unnamed-modules.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-deep-reflection-unnamed-modules)
+
 # java11-deep-reflection-unnamed-modules
 
 # preview
