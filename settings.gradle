@@ -1,2 +1,4 @@
 rootProject.name = 'java11-deep-reflection-unnamed-modules'
 
+include 'domain'
+include 'accessor'
